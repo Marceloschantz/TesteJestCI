@@ -1,0 +1,14 @@
+{
+  "name": "testejestci",
+  "version": "1.0.0",
+  "description": "Projeto CI para o Jest",
+  "main": "operacoes.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "MarceloS",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
